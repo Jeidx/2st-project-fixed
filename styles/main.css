@@ -840,8 +840,9 @@ main {
 }
 
 .wrapper {
-  max-width: 1171px;
+  max-width: 1181px;
   margin: 0 auto;
+  padding:0 10px;
 }
 
 @media screen and (min-width: 36rem) {
